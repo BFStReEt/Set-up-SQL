@@ -1,1 +1,1 @@
-# Set-up-SQL
+How to set up SQL
